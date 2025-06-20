@@ -1,5 +1,5 @@
 # Créer un niveau du jeu Casse-Brique.
-Un classique au design simple, dont la conception m'as permis d'apprendre quelque base en langage Javascript :
+Un classique avec un design simple, dont la conception m'as permis d'apprendre quelque base en langage Javascript :
 <li>Structurer et commenter son code.
 <li>Créer des fonctions et variables.
 <li>Lier une valeur à une variable.
